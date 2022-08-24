@@ -36,4 +36,5 @@ Read full text of the license [here](/LICENSE).
 ## Copyright
 
 Copyright 2021 Boston Dynamics, Inc. All rights reserved.
+
 Copyright 2022 Eugene Hauptmann. (TypeScript types, bindings, build scripts).
